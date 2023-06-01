@@ -1,2 +1,2 @@
 def func():
-  return "this is a func"
+  return "this is a function"
